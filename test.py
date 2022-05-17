@@ -1,1 +1,1 @@
-pri​nt("test test lol")
+print("test test lol")
